@@ -1,0 +1,2 @@
+# Angry-Mechs
+The name is not decided yet, but this is going to be a game, in an ARPG style within, you are to control a little mech, whose love is kidnapped  by The E.V.I.L. Bot, so you have to rescue her... (XD Am I serious?!) ... SOooo, I'm planning the to be openworld and multiplayer with local, and server based system too. Planning a WebGL release, etc... I would be great if you could share your ideas with me.
